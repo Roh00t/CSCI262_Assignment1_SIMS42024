@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2024-11-24",
+    "events": {
+      "logins": 10,
+      "time online": 159.3,
+      "emails sent": 18,
+      "emails opened": 10,
+      "emails deleted": 4
+    }
+  },
+  {
+    "date": "2024-11-25",
+    "events": {
+      "logins": 12,
+      "time online": 55.51,
+      "emails sent": 18,
+      "emails opened": 7,
+      "emails deleted": 5
+    }
+  },
+  {
+    "date": "2024-11-26",
+    "events": {
+      "logins": 8,
+      "time online": 111.3,
+      "emails sent": 17,
+      "emails opened": 14,
+      "emails deleted": 1
+    }
+  },
+  {
+    "date": "2024-11-27",
+    "events": {
+      "logins": 6,
+      "time online": 141.97,
+      "emails sent": 9,
+      "emails opened": 8,
+      "emails deleted": 5
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "events": {
+      "logins": 4,
+      "time online": 120.99,
+      "emails sent": 9,
+      "emails opened": 19,
+      "emails deleted": 7
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "events": {
+      "logins": 3,
+      "time online": 100.99,
+      "emails sent": 11,
+      "emails opened": 18,
+      "emails deleted": 6
+    }
+  },
+  {
+    "date": "2024-11-30",
+    "events": {
+      "logins": 5,
+      "time online": 114.13,
+      "emails sent": 18,
+      "emails opened": 11,
+      "emails deleted": 4
+    }
+  },
+  {
+    "date": "2024-12-01",
+    "events": {
+      "logins": 6,
+      "time online": 92.38,
+      "emails sent": 17,
+      "emails opened": 8,
+      "emails deleted": 6
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "events": {
+      "logins": 10,
+      "time online": 96.77,
+      "emails sent": 17,
+      "emails opened": 4,
+      "emails deleted": 6
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "events": {
+      "logins": 8,
+      "time online": 172.07,
+      "emails sent": 17,
+      "emails opened": 12,
+      "emails deleted": 8
+    }
+  }
+]

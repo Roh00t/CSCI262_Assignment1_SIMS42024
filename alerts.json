@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2024-11-24",
+    "anomaly_score": 15.62,
+    "threshold": 18,
+    "status": "OK"
+  },
+  {
+    "date": "2024-11-25",
+    "anomaly_score": 27.93,
+    "threshold": 18,
+    "status": "FLAGGED"
+  },
+  {
+    "date": "2024-11-26",
+    "anomaly_score": 18.59,
+    "threshold": 18,
+    "status": "FLAGGED"
+  },
+  {
+    "date": "2024-11-27",
+    "anomaly_score": 6.8,
+    "threshold": 18,
+    "status": "OK"
+  },
+  {
+    "date": "2024-11-28",
+    "anomaly_score": 5.57,
+    "threshold": 18,
+    "status": "OK"
+  },
+  {
+    "date": "2024-11-29",
+    "anomaly_score": 9.88,
+    "threshold": 18,
+    "status": "OK"
+  },
+  {
+    "date": "2024-11-30",
+    "anomaly_score": 11.3,
+    "threshold": 18,
+    "status": "OK"
+  },
+  {
+    "date": "2024-12-01",
+    "anomaly_score": 13.76,
+    "threshold": 18,
+    "status": "OK"
+  },
+  {
+    "date": "2024-12-02",
+    "anomaly_score": 19.61,
+    "threshold": 18,
+    "status": "FLAGGED"
+  },
+  {
+    "date": "2024-12-03",
+    "anomaly_score": 11.62,
+    "threshold": 18,
+    "status": "OK"
+  }
+]
